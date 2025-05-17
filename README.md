@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 **About Me**
 
-- 📍 **Location:** <a href="https://maps.app.goo.gl/XVpZMVm4LwV7izcc9" target="_blank">BogotáCúcuta, Colombia</a> 🇨🇴  
+- 📍 **Location:** <a href="https://maps.app.goo.gl/XVpZMVm4LwV7izcc9" target="_blank">Cúcuta, Colombia</a> 🇨🇴  
 - 📧 **Email:** [giaosayago@gmail.com](mailto:giaosayago@gmail.com) 
 - 🎓 **Studies:** System engineer 
 - 🏫 **University:** [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/) 📚🇨🇴 
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=giaosayago&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
+![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-giaosayago-projects.vercel.app/api?username=giaosayago&show_icons=true&hide_rank=true&custom_title=giaosayago&theme=radical)
 
 ### 📂 My Projects
 
