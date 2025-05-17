@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-giaosayago-projects.vercel.app/api?username=giaosayago&show_icons=true&hide_rank=true&custom_title=giaosayago&theme=radical)
+![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=giaosayago&show_icons=true&hide_rank=true&custom_title=giaosayago&theme=radical)
 
 ### 📂 My Projects
 
