@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**giaosayago/giaosayago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **Hello there, I'm Alexander Sayago 👋**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 **About Me**
+
+- 📍 **Location:** <a href="https://maps.app.goo.gl/XVpZMVm4LwV7izcc9" target="_blank">BogotáCúcuta, Colombia</a> 🇨🇴  
+- 📧 **Email:** [giaosayago@gmail.com](mailto:giaosayago@gmail.com) 
+- 🎓 **Studies:** System engineer 
+- 🏫 **University:** [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/) 📚🇨🇴 
+
+
+
+---
+
+### 🖥️ **Languages**
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🛠️ **Tools & Frameworks**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+---
+
+### 📊 GitHub Stats:
+
+![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=giaosayago&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
+
+### 📂 My Projects
+
+Check out my public repositories below ⬇️⬇️⬇️
