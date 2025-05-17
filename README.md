@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giaosayago)]
+![Giao's GitHub stats](https://github-readme-stats.vercel.app/api?username=giaosayago)
 
 ### 📂 My Projects 
 
