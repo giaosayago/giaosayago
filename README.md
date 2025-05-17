@@ -31,6 +31,6 @@
 
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=giaosayago&show_icons=true&hide_rank=true&custom_title=giaosayago&theme=radical)
 
-### 📂 My Projects
+### 📂 My Projects 
 
-Check out my public repositories below ⬇️⬇️⬇️
+Check out my public repositories below ⬇️⬇️⬇️⬇️
