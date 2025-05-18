@@ -13,6 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: giaosayago/github-activity-readme@master
+      - uses: giaosayago/giaosayago@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
