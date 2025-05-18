@@ -9,7 +9,7 @@
 - 📍 **Location:** <a href="https://maps.app.goo.gl/XVpZMVm4LwV7izcc9" target="_blank">Cúcuta, Colombia</a> 🇨🇴  
 - 📧 **Email:** [giaosayago@gmail.com](mailto:giaosayago@gmail.com) 
 - 🎓 **Studies:** System engineer 
-- 🏫 **University:** [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/) 📚🇨🇴 
+- 🏫 **University:** [Universidad Francisco de Paula Santander ](https://ww2.ufps.edu.co/) 📚🇨🇴 
 
 
 
