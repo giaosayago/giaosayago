@@ -12,6 +12,11 @@
 - 🏫 **University:** [Universidad Francisco de Paula Santander ](https://ww2.ufps.edu.co/) 📚🇨🇴 
 
 
+### :zap: Actividad reciente
+<!-- START_SECTION:activity-->
+
+
+<!-- END_SECTION:activity-->
 
 ---
 
