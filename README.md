@@ -15,11 +15,6 @@
 ### :zap: Actividad reciente
 <!-- START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [giaosayago/miTercerRepo](https://github.com/giaosayago/miTercerRepo)<br>
-2. ❗️ Opened issue [#2](https://github.com/giaosayago/miTercerRepo/issues/2) in [giaosayago/miTercerRepo](https://github.com/giaosayago/miTercerRepo)<br>
-3. ✔️ Closed issue [#1](https://github.com/giaosayago/miTercerRepo/issues/1) in [giaosayago/miTercerRepo](https://github.com/giaosayago/miTercerRepo)<br>
-4. 💬 Commented on [#1](https://github.com/giaosayago/miTercerRepo/issues/1#issuecomment-2889196306) in [giaosayago/miTercerRepo](https://github.com/giaosayago/miTercerRepo)<br>
-5. ❗️ Opened issue [#1](https://github.com/giaosayago/miTercerRepo/issues/1) in [giaosayago/miTercerRepo](https://github.com/giaosayago/miTercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
