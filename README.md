@@ -17,6 +17,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-api-rest-javascript-practico](https://github.com/giaosayago/curso-api-rest-javascript-practico)<br>
 2. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-api-rest-javascript-practico](https://github.com/giaosayago/curso-api-rest-javascript-practico)<br>
+3. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-api-rest-javascript-practico](https://github.com/giaosayago/curso-api-rest-javascript-practico)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
