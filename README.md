@@ -16,10 +16,10 @@
 <!-- START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-testing-js](https://github.com/giaosayago/curso-testing-js)<br>
-2. 🔱 Forked [giaosayago/curso-testing-js](https://github.com/giaosayago/curso-testing-js) from [platzi/curso-testing-js](https://github.com/platzi/curso-testing-js)<br>
-3. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-api-rest-javascript-practico](https://github.com/giaosayago/curso-api-rest-javascript-practico)<br>
-4. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-api-rest-javascript-practico](https://github.com/giaosayago/curso-api-rest-javascript-practico)<br>
-5. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-api-rest-javascript-practico](https://github.com/giaosayago/curso-api-rest-javascript-practico)<br>
+2. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-testing-js](https://github.com/giaosayago/curso-testing-js)<br>
+3. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-testing-js](https://github.com/giaosayago/curso-testing-js)<br>
+4. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-testing-js](https://github.com/giaosayago/curso-testing-js)<br>
+5. ⬆️ Pushed 1 commit(s) to [giaosayago/curso-testing-js](https://github.com/giaosayago/curso-testing-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
